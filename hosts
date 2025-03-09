@@ -1,0 +1,4 @@
+[servidores]
+192.168.1.112 ansible_user=lvmedeiros
+192.168.1.172 ansible_user=lucas_medeiros
+
